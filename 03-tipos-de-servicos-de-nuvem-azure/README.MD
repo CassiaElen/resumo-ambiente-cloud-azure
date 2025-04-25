@@ -1,6 +1,4 @@
-## **Anotações e Dicas sobre o Uso da Azure**
-
-### **Tipos de Serviço de Nuvem na Azure**
+# **Tipos de Serviço de Nuvem na Azure**
 
 #### **1. IaaS (Infraestrutura como Serviço)**
 
