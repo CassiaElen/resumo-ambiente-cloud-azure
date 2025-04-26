@@ -25,8 +25,6 @@
 - 💡 **Dica**: Para alta disponibilidade, implante suas **VMs em diferentes zonas** dentro da mesma região.
     
 
----
-
 ## **Pares de Regiões**
 
 - Conjuntos de duas regiões **separadas por no mínimo 300 milhas**.
@@ -35,8 +33,6 @@
     
 - 💡 **Dica**: Use **pares de regiões** ao planejar sua estratégia de recuperação de desastres.
     
-
----
 
 ## **Regiões Soberanas do Azure**
 
@@ -54,8 +50,6 @@
         
 - 💡 **Dica**: Use essas regiões apenas se tiver obrigações legais específicas nesses países.
     
-
----
 
 ## **Recursos do Azure**
 
@@ -76,8 +70,6 @@
 - 💡 **Dica**: Use **tags** para organizar seus recursos e facilitar o monitoramento e os relatórios.
     
 
----
-
 ## **Grupos de Recursos**
 
 - Um **container lógico** para agrupar e gerenciar recursos relacionados.
@@ -92,8 +84,6 @@
         
 - 💡 **Dica**: Crie grupos por **ambiente (Dev/Test/Prod)** ou por **aplicação** para facilitar a gestão e a automação com templates.
     
-
----
 
 ## **Assinatura do Azure**
 
@@ -115,8 +105,6 @@
         
 - 💡 **Dica**: Use múltiplas assinaturas para isolar ambientes e definir limites de orçamento.
     
-
----
 
 ## **Grupos de Gerenciamento**
 
